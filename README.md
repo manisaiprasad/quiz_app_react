@@ -1,6 +1,8 @@
 # quiz_app_react
 
-This is a Quiz Application built on React js, Node js and Express js 
+This is a Quiz Application built on React js, Node js and Express js
+
+![](./logo.png)
 
 This App is a rewite in react js for https://github.com/manisaiprasad/quiz_app
 
